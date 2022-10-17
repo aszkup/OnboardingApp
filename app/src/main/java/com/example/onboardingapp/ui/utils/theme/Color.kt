@@ -1,4 +1,4 @@
-package com.example.onboardingapp.ui.theme
+package com.example.onboardingapp.ui.utils.theme
 
 import androidx.compose.ui.graphics.Color
 

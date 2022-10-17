@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">OnboardingApp</string>
+    <string name="empty" translatable="false" />
+
+    <string name="welcome">Welcome to OnboardingApp</string>
+    <string name="common_start">Start</string>
+    <string name="common_next">Next</string>
+    <string name="common_email">E-mail</string>
+    <string name="common_password">Password</string>
+    <string name="common_firstName">First Name</string>
+    <string name="common_lastName">Last Name</string>
+    <string name="common_phoneNumber">Phone number</string>
+    <string name="common_pin">Pin</string>
+    <string name="common_logout">Logout</string>
+
+    <string name="your_feed">Your feed</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="phoneNumber_hint">Phone number (start with +)</string>
+    <string name="confirm_pin">Confirm Pin</string>
+    <string name="login_with_pin">Login with Pin</string>
+    <string name="personal_loginData">Login data:</string>
+    <string name="personal_info">Personal info:</string>
+    <string name="terms_of_service">Terms of service:</string>
+    <string name="invalid_email">This is not a valid email</string>
+    <string name="invalid_phone">This is not a valid phone number</string>
+    <string name="accept_terms_of_service">I accept the Terms of service</string>
+    <string name="terms_of_service_content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
 </resources>
